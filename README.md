@@ -1,1 +1,1 @@
-# KNGenAI
+# GenAI - Rags + Agentic
